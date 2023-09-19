@@ -1,3 +1,4 @@
+class Solution{
 static void sortByOneSwap(int arr[],
                           int n)
 {
@@ -21,4 +22,5 @@ static void sortByOneSwap(int arr[],
             break;
         }
     }
+ }
 }
